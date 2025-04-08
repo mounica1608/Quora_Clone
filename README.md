@@ -30,6 +30,7 @@ A simple Quora-like platform built using Django. Users can register, log in, and
 git clone https://github.com/mounicapatnana/Quora_Clone.git
 cd Quora_Clone
 
+
 ### 2. Set Up Virtual Environment
 ```bash
 python -m venv env
