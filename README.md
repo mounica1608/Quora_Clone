@@ -27,8 +27,8 @@ A simple Quora-like platform built using Django. Users can register, log in, and
 
 ### Set Up
 
+Project Setup
 
-1. Clone
 ```bash
 git clone https://github.com/mounicapatnana/Quora_Clone.git
 cd Quora_Clone
